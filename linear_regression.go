@@ -1,11 +1,6 @@
 package main
 
-import  (
-	"fmt"
-	// "time"
-	// "math"
-	// "math/rand"
-)
+import  "fmt"
 
 func mean(array[] float64) (mean float64){
 	

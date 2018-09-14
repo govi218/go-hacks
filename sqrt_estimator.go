@@ -1,9 +1,6 @@
 package main
 
-import (
-	"fmt"
-	// "math"
-)
+import "fmt"
 
 func Sqrt(x float64) (z float64) {
 	z = 1.0
